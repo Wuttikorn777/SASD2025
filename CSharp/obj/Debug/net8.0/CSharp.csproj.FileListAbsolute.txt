@@ -1,0 +1,14 @@
+C:\vsproject\SASD2025\CSharp\bin\Debug\net8.0\CSharp.exe
+C:\vsproject\SASD2025\CSharp\bin\Debug\net8.0\CSharp.deps.json
+C:\vsproject\SASD2025\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\vsproject\SASD2025\CSharp\bin\Debug\net8.0\CSharp.dll
+C:\vsproject\SASD2025\CSharp\bin\Debug\net8.0\CSharp.pdb
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.dll
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.pdb
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\vsproject\SASD2025\CSharp\obj\Debug\net8.0\ref\CSharp.dll
